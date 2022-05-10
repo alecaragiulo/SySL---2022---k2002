@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+//nombre: Alessandro 
+//apellido: Caragiulo
+
 int main () {
 
     char caracter;
