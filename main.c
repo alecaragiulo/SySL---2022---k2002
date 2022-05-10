@@ -8,7 +8,7 @@ int main () {
 
     char caracter;
 
-    printf("ingrese texto");
+    printf("ingrese texto \n");
     caracter = getchar ();
 
     while (caracter !='\n')
